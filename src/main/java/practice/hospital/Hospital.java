@@ -1,8 +1,5 @@
 package practice.hospital;
 
-import java.math.BigDecimal;
-import java.text.DecimalFormat;
-
 public class Hospital {
 
     public static float[] generatePatientsTemperatures(int patientsCount) {
